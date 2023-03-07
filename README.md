@@ -1,2 +1,5 @@
 # Pet-Handler
+Introduction: In this project I will be making a website for my client Pet handler. They want me to create a website that is simple and easy to use. I'll also have to demonstrate the use of source and version control through the use Git using platforms such as Github, Git Desktop and Git Bash.
+Purpose: They are trying to attract people to their business so they can expand to rescue more animals and to find them good homes. They feel like since they are a small business and people don’t know they exist. They feel like by having a website the end users can see the animals on the screen and connect with them. Without having to go through the struggle of visiting them in person as not everyone has the time. However, this company wants to give the end users options. And having a website will be an option that they can use to see the animals.
+Technology stack: I am using Visual Studio as a platform to develop my website, I'll be using the ASP.Net MVC framework which include HTML, CSS, Javascript and C#.
  
